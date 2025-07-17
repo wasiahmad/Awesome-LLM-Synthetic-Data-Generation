@@ -75,8 +75,11 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ### 2.2. Instruction Generation with High Quality/Complexity
 
+- [**LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning**](https://arxiv.org/abs/2409.12929) *Jin Jiang, Yuchen Yan, Yang Liu, Jianing Wang, Shuai Peng, Xunliang Cai, Yixin Cao, Mengdi Zhang, Liangcai Gao.*  ACL 2025.
 - [**CodecLM: Aligning Language Models with Tailored Synthetic Data**](https://arxiv.org/abs/2404.05875) *Zifeng Wang, Chun-Liang Li, Vincent Perot, Long T. Le, Jin Miao, Zizhao Zhang, Chen-Yu Lee, Tomas Pfister.* Findings of NAACL 2024.
 - [**WizardLM: Empowering Large Language Models to Follow Complex Instructions**](https://arxiv.org/abs/2304.12244) *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* Arxiv 2023.
+
+
 
 ## 3. Application Areas
 
