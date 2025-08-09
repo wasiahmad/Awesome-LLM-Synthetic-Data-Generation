@@ -40,7 +40,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ### 1. Surveys
 - [**Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation**](https://arxiv.org/abs/2502.17521) *Simin Chen, Yiming Chen, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray.* Preprint'25
-- [**A Survey on Bridging VLMs and Synthetic Data**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1) *Mohammad Ghiasvand Mohammadkhani, Saeedeh Momtazi, Hamid Beigy.* TechRxiv 2025.
+- [**A Survey on Bridging VLMs and Synthetic Data**](https://openreview.net/pdf?id=ThjDCZOljE) *Mohammad Ghiasvand Mohammadkhani, Saeedeh Momtazi, Hamid Beigy.* OpenReview 2025.
 - [**Best Practices and Lessons Learned on Synthetic Data for Language Models**](https://arxiv.org/abs/2404.07503) *Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao, Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai.* COLM 2024.
 - [**On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey**](https://arxiv.org/abs/2406.15126) *Lin Long, Rui Wang, Ruixuan Xiao, Junbo Zhao, Xiao Ding, Gang Chen, Haobo Wang.* Arxiv 2024.
 - [**Large Language Models for Data Annotation: A Survey**](https://arxiv.org/abs/2402.13446) *Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.* Arxiv 2024.
